@@ -2,20 +2,18 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+I am to create a html page with css style, using bootstrap 4, bootstrap 5 or tailwind css. i will make use of the grind system.
 
 ## Description
-TODO - How have you solved the problem?
+for the html page, i imported the bootstrap in the head.
+i created a container-fluid div class to contain the whole grid, i have 3 rows, 1st one for header, 2nd for main and sidebar, 3rd one for footer.
+all the row have columns, the row for main and sidebar has 3 columns, the first one for main which is the largest and twice the size of sidebar column, there is an empty column between main and side bar, it is the same size as sidebar. 
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+there is no Installation needed for this project
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
-
+to view this project use the static hmtl page renderer
 ### The Core Team
 
 
