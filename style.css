@@ -1,37 +1,20 @@
-body{
-    margin: 0px !important;
-    }
-   
     .container-fluid div{
-        height: 100px;
+        min-height: 180px;
     }
     .header{
-        background-color:orange;
-        justify-content: center;
-        text-align: center;
+        background-color:#FA912F ;
+        margin: auto;
     }
-    .footer{
-        background-color: green;
-        justify-content: center;
-        text-align: center;
-    }
-    .display-5{
-        text-align: center;
-        color: black;
-        font-weight: 600;
-    }
-    .col-6{
-        text-align:center;
-        justify-content: center;
-        color: black;
-        background-color: blue;
-    }    
     .main{
-        background-color: blue;
-        text-align: center;
+        background-color:#5AC3D4 ;
+        margin: auto;
     }
     .sidebar{
-        background-color: red;
-        text-align: center;
-        height: 100px;
+        background-color: #D14F71 ;
+        margin: auto;
     }
+    .footer{
+        background-color: #49B668 ;
+        margin: auto;
+    }
+   
